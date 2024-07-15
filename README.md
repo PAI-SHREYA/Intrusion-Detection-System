@@ -1,5 +1,5 @@
 # Intrusion-Detection-System
-**About The Project:**
+
 This research project introduces a novel Intrusion Detection System
 (IDS) for edge computing, blending Convolutional Neural Networks
 (CNN) and Random Forests for feature reduction, with a focus on anomaly
